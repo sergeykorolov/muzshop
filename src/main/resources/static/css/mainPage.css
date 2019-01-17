@@ -1,0 +1,17 @@
+.header {
+    height: 40px;
+}
+
+.body{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.username{
+    float: right;
+}
+
+.item{
+    display: inline-block;
+    width: 197px;
+}
